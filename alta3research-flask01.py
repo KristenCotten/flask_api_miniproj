@@ -21,7 +21,7 @@ app = Flask(__name__)                           # flask constructor
 houndData= [{ 
     "genus": "Canis",
     "species": "familiaris",
-    "country": 1962,
+    "country": "England",
     "characteristics": [
         "super fast",
         "sight hound",
